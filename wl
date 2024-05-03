@@ -1,16 +1,17 @@
 local wl = {
     blacks = {
-        password = "foodtomatosaucehotdogketchuprice"
+        password = "foodtomatosaucehotdogketchuprice",
         awaiting = true
-    }
+    },
     sigma = {
-    password = "gyatery"
+    password = "gyatery",
     awaiting = true
-    }
+    },
     admin = {
-    password = "dex"
+    password = "dex",
     awaiting = false
     }
 }
+
 
 return wl
